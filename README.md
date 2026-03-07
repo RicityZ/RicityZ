@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Kittipit Wongwan 👋
 
-<!--
-**RicityZ/RicityZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineering student at Suranaree University of Technology (SUT).  
+Interested in AI, Computer Vision, and Web Development.
 
-Here are some ideas to get you started:
+I enjoy building practical systems such as AI exercise posture detection, web security analysis, and full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Languages**  
+JavaScript, Java, PHP, VB.NET
+
+**Frontend**  
+React, HTML, CSS
+
+**AI / Computer Vision**  
+TensorFlow.js, BlazePose, Pose Detection
+
+**Backend / Database**  
+Node.js, MySQL, SQL Server
+
+**Software Development**  
+OOP, REST API, Full-Stack Development
